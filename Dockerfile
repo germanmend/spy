@@ -4,4 +4,4 @@ WORKDIR /code
 
 RUN pip install -r requirements.txt
 
-CMD sleep 5 && flask db upgrade && python wsgi.py
+CMD sleep 8 && flask db upgrade && python wsgi.py
