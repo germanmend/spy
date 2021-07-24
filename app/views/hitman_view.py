@@ -23,9 +23,6 @@ def register():
 @app.route('/hitmen', methods=['GET'])
 @validate_user
 def get_hitmen(requester_id=None, requester_level=None):
-    print(requester_id)
-    print(requester_level)
-
     if requester_level == 'HITMAN':
         return make_response('insufficient privileges you are just a hitman :(', 403)
     elif requester_level == 'MANAGER':

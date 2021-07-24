@@ -76,17 +76,17 @@ def upgrade():
             {
                 'name': 'hitman_zero',
                 'email': 'hitman_0@spy.io',
-                'level': 'HIMAN'
+                'level': 'HITMAN'
             },
             {
                 'name': 'hitman_one',
                 'email': 'hitman_1@spy.io',
-                'level': 'HIMAN'
+                'level': 'HITMAN'
             },
             {
                 'name': 'hitman_two',
                 'email': 'hitman_2@spy.io',
-                'level': 'HIMAN'
+                'level': 'HITMAN'
             },
             {
                 'name': 'hitman_three',
@@ -96,27 +96,27 @@ def upgrade():
             {
                 'name': 'hitman_four',
                 'email': 'hitman_4@spy.io',
-                'level': 'HIMAN'
+                'level': 'HITMAN'
             },
             {
                 'name': 'hitman_five',
                 'email': 'hitman_5@spy.io',
-                'level': 'HIMAN'
+                'level': 'HITMAN'
             },
             {
                 'name': 'hitman_six',
                 'email': 'hitman_6@spy.io',
-                'level': 'HIMAN'
+                'level': 'HITMAN'
             },
             {
                 'name': 'hitman_seven',
                 'email': 'hitman_7@spy.io',
-                'level': 'HIMAN'
+                'level': 'HITMAN'
             },
             {
                 'name': 'hitman_eight',
                 'email': 'hitman_8@spy.io',
-                'level': 'HIMAN'
+                'level': 'HITMAN'
             }
         ]
     )
