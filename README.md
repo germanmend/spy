@@ -16,7 +16,9 @@ SETTINGS_MODULE=settings docker-compose up --build --remove-orphans
 ```
 
 ## Collection
-Import this collection in order to get the services paths and payloads
+Import this collection in order to get the services paths and payloads:
+
+[postman collection](https://www.getpostman.com/collections/db06a55db3bf5b238b8d)
 
 ## ToDo
 1. - Hardest payload/headers/path_vars validation.
