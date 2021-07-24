@@ -1,1 +1,1 @@
-SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:postgres@localhost:5432/spy'
+SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:postgres@db:5432/spy'
